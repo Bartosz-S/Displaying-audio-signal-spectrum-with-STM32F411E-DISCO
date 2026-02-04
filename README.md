@@ -21,4 +21,4 @@ Display in dB scale with the same signal:
 <br>
 Scales of two modes are shown below:
 <br>
-<img width="313" height="196" alt="image" src="https://github.com/user-attachments/assets/93521d76-3e92-4033-8009-fbe09cfe8c92" />
+<img width="470" height="294" alt="image" src="https://github.com/user-attachments/assets/93521d76-3e92-4033-8009-fbe09cfe8c92" />
