@@ -1,5 +1,7 @@
 # Displaying audio signal's spectrum with STM32F411E-DISCO
 
+
+<br>\n\n<br>
 Connections between STM32F411E-DISCO board and used peripherals - LCD display Waveshare 13892 and  DFRobot SEN0526
 <br>
 <img width="472" height="309" alt="image" src="https://github.com/user-attachments/assets/055ed1f4-4a2f-4a7c-8856-83937abe5c06" />
