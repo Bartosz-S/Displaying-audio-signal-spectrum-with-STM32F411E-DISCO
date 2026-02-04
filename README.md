@@ -5,7 +5,7 @@ A hobbyist project meant to show spectrums of audio signal coming from MEMS micr
 
 Connections between STM32F411E-DISCO board and used peripherals - LCD display Waveshare 13892 and  DFRobot SEN0526
 <br>
-<img width="472" height="309" alt="image" src="https://github.com/user-attachments/assets/055ed1f4-4a2f-4a7c-8856-83937abe5c06" />
+<img width="708" height="464" alt="image" src="https://github.com/user-attachments/assets/055ed1f4-4a2f-4a7c-8856-83937abe5c06" />
 <br>
 
 
