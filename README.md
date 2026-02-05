@@ -2,23 +2,32 @@
 
 A hobbyist project meant to show spectrums of audio signal coming from MEMS microphone (for example a generated audio wave: [sinus](https://www.youtube.com/watch?v=cx1VQISKvhc), [square](https://www.youtube.com/watch?v=v2LJ7Bk23kU), etc.) using FFT transform functions from CMSIS library.
 
+## Hardware Setup
 
 Connections between STM32F411E-DISCO board and used peripherals - LCD display Waveshare 13892 and  DFRobot SEN0526
-<br>
-<img width="472" height="309" alt="image" src="https://github.com/user-attachments/assets/055ed1f4-4a2f-4a7c-8856-83937abe5c06" />
-<br>
 
+<img width="472" height="309" alt="image" src="https://github.com/user-attachments/assets/055ed1f4-4a2f-4a7c-8856-83937abe5c06" />
+
+
+## Display modes and example output
 
 By using development board's USER button we can switch between two display states - linear (best for detecting small amplitude signals, like speaking) and dB scales (for typical audio signals and larger amplitudes).
-<br>
+
+
+### Example outputs
+
 Display in linear scale with test signal (human whistling):
-<br>
+
 <img width="239" height="146" alt="image" src="https://github.com/user-attachments/assets/7b95e936-32da-412a-a5d5-c04fa48ff33f" />
-<br>
+
+
 Display in dB scale with the same signal:
-<br>
+
 <img width="239" height="146" alt="image" src="https://github.com/user-attachments/assets/21cc1c82-5037-41f4-8a2d-ac44da90da52" />
-<br>
+
+
+### Scale comparison
+
 Scales of two modes are shown below:
-<br>
+
 <img width="470" height="294" alt="image" src="https://github.com/user-attachments/assets/93521d76-3e92-4033-8009-fbe09cfe8c92" />
