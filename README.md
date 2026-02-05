@@ -4,7 +4,7 @@ A hobbyist project meant to show spectrums of audio signal coming from MEMS micr
 
 ## Hardware Setup
 
-Connections between STM32F411E-DISCO board and used peripherals - LCD display Waveshare 13892 and MEMS microphone DFRobot SEN0526
+Connections between STM32F411E-DISCO board and used peripherals - LCD display Waveshare 13892 and MEMS microphone DFRobot SEN0526.
 
 <img width="472" height="309" alt="image" src="https://github.com/user-attachments/assets/055ed1f4-4a2f-4a7c-8856-83937abe5c06" />
 
